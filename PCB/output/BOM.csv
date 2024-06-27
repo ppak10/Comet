@@ -1,0 +1,11 @@
+#,Reference,Qty,Value,Footprint,DNP
+1,BT1,0,Battery,,
+2,"H1, H2, H3, H4",4,MountingHole,MountingHole:MountingHole_3mm,
+3,J1,1,Screw_Terminal_Device_Output,TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal,
+4,J2,1,Screw_Terminal_Battery,TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal,
+5,J4,1,Conn_02x04_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical_SMD,
+6,LED1,1,5V RED,LED_SMD:LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm,
+7,R1,1,200,Resistor_SMD:R_0201_0603Metric,
+8,R2,1,300,Resistor_SMD:R_0201_0603Metric,
+9,R3,1,560,Resistor_SMD:R_0201_0603Metric,
+10,SW1,1,SW_DIP_x01,MountingHole:MountingHole_5.3mm_M5_DIN965_Pad_TopBottom,
