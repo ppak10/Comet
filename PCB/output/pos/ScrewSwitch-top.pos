@@ -1,4 +1,4 @@
-### Footprint positions - created on Thu Jun 27 07:34:00 2024 ###
+### Footprint positions - created on Thu Jun 27 22:41:25 2024 ###
 ### Printed by KiCad version 7.0.5
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -7,7 +7,7 @@ J1        Screw_Terminal_Device_Output  TerminalBlock_TE_282834-2_1x02_P2.54mm_H
 J2        Screw_Terminal_Battery        TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal   136.1875   -90.5957   90.0000  top
 J4        Conn_02x04_Odd_Even           PinHeader_2x04_P2.54mm_Vertical_SMD                 139.9975  -101.5850   90.0000  top
 LED1      5V_RED                        LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm      139.7000  -109.2200  180.0000  top
-R1        200                           R_0201_0603Metric                                   135.8675   -94.1710    0.0000  top
-R2        300                           R_0201_0603Metric                                   140.9475   -94.1710    0.0000  top
-R3        560                           R_0201_0603Metric                                   143.8075   -94.1710    0.0000  top
+R1        200                           R_0402_1005Metric                                   135.8675   -94.1710    0.0000  top
+R2        300                           R_0402_1005Metric                                   140.9475   -94.1710    0.0000  top
+R3        560                           R_0402_1005Metric                                   143.8075   -94.1710    0.0000  top
 ## End
