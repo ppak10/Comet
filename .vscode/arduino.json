@@ -1,0 +1,7 @@
+{
+    "port": "COM6",
+    "board": "adafruit:nrf52:feather52832",
+    "sketch": "githubs\\Adafruit_nRF52_Arduino\\libraries\\Bluefruit52Lib\\examples\\Peripheral\\neopixel\\neopixel.ino",
+    "configuration": "softdevice=s132v6,debug=l0,debug_output=serial",
+    "programmer": "nrfutil_boot"
+}
